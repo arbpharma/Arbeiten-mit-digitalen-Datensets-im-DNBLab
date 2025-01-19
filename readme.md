@@ -28,7 +28,7 @@ Diese Analyse-Pipeline dient dazu, Daten aus der Deutschen Nationalbibliothek (D
   - **Selenium WebDriver** mit Google Chrome.
   - Download-Verzeichnis: Standardordner ist `pdf`.
 
-### **2. PDF-Leser: Textextraktion und OCR**
+### **2. PDF-Reader: Textextraktion und OCR**
 **Datei:** `2_pdf_reader_base_code.ipynb`
 
 - **Funktion:**
