@@ -83,7 +83,11 @@ Diese Analyse-Pipeline dient dazu, Daten aus der Deutschen Nationalbibliothek (D
 
 ### **Anleitung**
 Führen Sie die Dateien in der folgenden Reihenfolge aus:
-1_dnb_pdf_downloader.ipynb → Lädt die PDFs herunter.
-2_pdf_reader_base_code.ipynb → Extrahiert Texte und Bilder.
-3_pdf_analyse.ipynb → Analysiert Texte und erstellt eine Wortwolke.
+1. **`1_dnb_pdf_downloader.ipynb`**  
+   → Lädt die PDFs herunter.
+2. **`2_pdf_reader_base_code.ipynb`**  
+   → Extrahiert Texte und Bilder.
+3. **`3_pdf_analyse.ipynb`**  
+   → Analysiert Texte und erstellt eine Wortwolke.
+
 
