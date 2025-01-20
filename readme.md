@@ -1,6 +1,6 @@
 Dieses Repository widmet sich der Erforschung und Analyse der Entwicklung von Musik über verschiedene Zeitperioden. Ziel des Projekts ist es, Muster, Trends und Einflüsse in der musikalischen Entwicklung zu untersuchen. Die Daten können unter folgenden Link eingesehen werden: https://portal.dnb.de/opac.htm?method=showShortList&currentPosition=17&currentResultId=cod%3Dnt%26any%26onlinefree%26scores
 
-# Analyse-Pipeline der Deutschen Nationalbibliothek (DNB)
+# Analyse-Pipeline für die Deutsche Nationalbibliothek (DNB)
 
 ## 🔧 **Übersicht**
 Diese Analyse-Pipeline dient dazu, Daten aus der Deutschen Nationalbibliothek (DNB) effizient zu verarbeiten. Sie umfasst:
